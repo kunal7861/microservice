@@ -1,0 +1,2 @@
+# microservice
+microservice common properties
